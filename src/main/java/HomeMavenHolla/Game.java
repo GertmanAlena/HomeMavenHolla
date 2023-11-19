@@ -28,9 +28,9 @@ public class Game {
             }
             result.put(i, doors[userChoice]);
         }
-//        for (int i = 0; i < result.size(); i++) {
-//            System.out.println(i + " " + result.get(i));
-//        }
+        for (int i = 0; i < result.size(); i++) {
+            System.out.println(i + " " + result.get(i));
+        }
         return count;
     }
 
@@ -68,9 +68,9 @@ public class Game {
             }
             result.put(i, doors[userChoice]);
         }
-//        for (int i = 0; i < result.size(); i++) {
-//            System.out.println(i + " " + result.get(i));
-//        }
+        for (int i = 0; i < result.size(); i++) {
+            System.out.println(i + " " + result.get(i));
+        }
         return count;
     }
 
